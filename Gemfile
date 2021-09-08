@@ -42,7 +42,7 @@ end
 
 group :development do
   gem 'annotate', '~> 3.1', '>= 3.1.1'
-  gem 'better_errors', '~> 2.5', '>= 2.5.1'
+  gem 'better_errors', '~> 2.8'
   gem 'letter_opener', '~> 1.7'
   gem 'listen', '~> 3.2'
   gem 'rails_best_practices', '~> 1.19.4'
